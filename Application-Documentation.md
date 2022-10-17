@@ -1,10 +1,19 @@
 # Unqork Group Project - Documentation
+## Project Description & Resources
+
 
 ## Table of Contents
+* [Help Requests](#help-requests)
 * [Schedule](#schedule)
 * [Issues and Todos](#issues-and-todos)
 * [Data Dictionary](#data-dictionary)
 * [Module Tracker](#module-tracker)
+
+<hr>
+
+### Help Requests
+* Description:
+* Contact Email/Zoom Link:
 
 <hr>
 
