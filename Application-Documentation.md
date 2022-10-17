@@ -14,14 +14,14 @@
 
 <hr>
 
-### Issues and Todos
-#### *( ! = important)*
+### Issues and Todos 
+##### *( ! = important)*
 * *issue here* 
 
 <hr>
 
 ### Data Dictionary 
-#### *(G = Global, L = Local)*
+##### *(G = Global, L = Local)*
 * *module here*
   * *variable here*
 
