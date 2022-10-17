@@ -11,6 +11,8 @@
 ### Schedule 
 #### Day 1
  *  Meet time: 00:00
+ *  Zoom link:
+ *  Agenda
 
 <hr>
 
